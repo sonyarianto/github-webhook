@@ -1,2 +1,2 @@
 # github-webhook
-Learn the Github webhook, processed using PHP.
+Learn the Github webhook, processed using PHP
